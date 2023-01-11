@@ -1,0 +1,17 @@
+{
+    "name": "capob/bienesraices",
+    "description": "Creando un proyecto con POO",
+    "type": "project",
+    "authors": [{
+        "name": "Juan P Capobianco",
+        "email": "capobiancoramos@gmail.com"
+    }],
+    "require": {
+        "intervention/image": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "./classes"
+        }
+    }
+}
